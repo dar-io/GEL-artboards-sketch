@@ -11,7 +11,7 @@
         <key>name</key>
         <string>Desktop Wide - Group 4</string>
         <key>width</key>
-        <integer>1280</integer>
+        <integer>1380</integer>
         <key>height</key>
         <integer>2000</integer>
       </dict>
@@ -19,17 +19,17 @@
         <key>name</key>
         <string>Desktop - Group 4</string>
         <key>width</key>
-        <integer>1008</integer>
+        <integer>1080</integer>
         <key>height</key>
-        <integer>1024</integer>
+        <integer>2000</integer>
       </dict>
        <dict>
         <key>name</key>
         <string>Tablet - Group 3</string>
         <key>width</key>
-        <integer>768</integer>
+        <integer>600</integer>
         <key>height</key>
-        <integer>1024</integer>
+        <integer>2000</integer>
       </dict>
        <dict>
         <key>name</key>
@@ -37,7 +37,7 @@
         <key>width</key>
         <integer>375</integer>
         <key>height</key>
-        <integer>600</integer>
+        <integer>2000</integer>
       </dict>
       <dict>
         <key>name</key>
@@ -45,7 +45,7 @@
         <key>width</key>
         <integer>320</integer>
         <key>height</key>
-        <integer>600</integer>
+        <integer>2000</integer>
       </dict>
       <dict>
         <key>name</key>
@@ -53,7 +53,7 @@
         <key>width</key>
         <integer>240</integer>
         <key>height</key>
-        <integer>600</integer>
+        <integer>2000</integer>
       </dict>
     </array>
   </dict>
