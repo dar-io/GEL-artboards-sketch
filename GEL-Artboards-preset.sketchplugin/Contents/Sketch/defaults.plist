@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+  <dict>
+    <key>name</key>
+    <string>BBC Artboards Responsive</string>
+    <key>presets</key>
+    <array>
+      <dict>
+        <key>name</key>
+        <string>Desktop Wide - Group 4</string>
+        <key>width</key>
+        <integer>1280</integer>
+        <key>height</key>
+        <integer>2000</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Desktop - Group 4</string>
+        <key>width</key>
+        <integer>1008</integer>
+        <key>height</key>
+        <integer>1024</integer>
+      </dict>
+       <dict>
+        <key>name</key>
+        <string>Tablet - Group 3</string>
+        <key>width</key>
+        <integer>768</integer>
+        <key>height</key>
+        <integer>1024</integer>
+      </dict>
+       <dict>
+        <key>name</key>
+        <string>Compact - Group 2</string>
+        <key>width</key>
+        <integer>375</integer>
+        <key>height</key>
+        <integer>600</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Compact - Group 2</string>
+        <key>width</key>
+        <integer>320</integer>
+        <key>height</key>
+        <integer>600</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Core - Group 1</string>
+        <key>width</key>
+        <integer>240</integer>
+        <key>height</key>
+        <integer>600</integer>
+      </dict>
+    </array>
+  </dict>
+</array>
+</plist>

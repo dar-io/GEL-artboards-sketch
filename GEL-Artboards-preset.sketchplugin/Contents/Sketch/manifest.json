@@ -1,0 +1,25 @@
+{
+  "name": "GEL Artboards",
+  "description": "GEL Artboards preset",
+  "author": "Dario Ramalho",
+  "homepage": "https://github.com/dar.io/GEL-artboards-sketch",
+  "version": 1.0,
+  "identifier": "com.github.dar.io.GEL-artboards-sketch",
+  "updateURL": "https://github.com/dar.io/GEL-artboards-sketch",
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "commands": [
+    {
+      "name": "Install GEL Artboards",
+      "identifier": "show-info",
+      "shortcut": "ctrl alt b",
+      "script": "GEL-Artboards.coscript",
+      "handler": "installArtboards"
+    },
+  ],
+  "menu": {
+    "items": [
+      "show-info",
+    ]
+  }
+}
